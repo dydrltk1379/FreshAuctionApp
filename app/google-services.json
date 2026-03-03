@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470119280635",
+    "project_id": "freshauctionapp-41083",
+    "storage_bucket": "freshauctionapp-41083.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470119280635:android:ab5149fe72268d1f4b655e",
+        "android_client_info": {
+          "package_name": "com.example.freshauctionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOaUqi0E4_-7MJ6VAzLCtYPvCZzXawlFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

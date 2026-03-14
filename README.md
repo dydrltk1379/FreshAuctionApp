@@ -6,7 +6,6 @@
 <br>
 
 ## 📝 1. Introduction
-## 1. Introduction
 
 FreshAuctionApp은 전국 농산물 도매시장의 실시간 경매 낙찰 가격을 조회하는 안드로이드 앱입니다. 
 
